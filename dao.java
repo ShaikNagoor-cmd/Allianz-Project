@@ -1,1 +1,5 @@
+ HEAD
 dao.java file is updated by dev2
+
+dev1
+>>>>>>> dev1
